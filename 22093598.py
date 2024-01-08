@@ -7,7 +7,7 @@ Created on Sun Jan  7 23:49:02 2024
 The code produces an infographic report based on the UK Box Office data.
 The dataset is sourced from the following link: https://core-cms.bfi.org.uk/media/32211/download.
 To use the code, download the dataset and ensure both the Python script and the dataset are in the same directory.
-My github repositroy link is https://github.com/JawadDS/DHV_Assignment
+My github repository link is https://github.com/JawadDS/DHV_Assignment
 
 """
 # Import libraries

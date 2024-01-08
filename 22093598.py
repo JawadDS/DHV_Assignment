@@ -7,10 +7,9 @@ Created on Sun Jan  7 23:49:02 2024
 The code produces an infographic report based on the UK Box Office data.
 The dataset is sourced from the following link: https://core-cms.bfi.org.uk/media/32211/download.
 To use the code, download the dataset and ensure both the Python script and the dataset are in the same directory.
+My github repositroy link is https://github.com/JawadDS/DHV_Assignment
 
 """
-
-
 # Import libraries
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -75,4 +74,4 @@ fig.text(0.02, 0.02, 'This dashboard explores the UK cinematic environment from 
 fig.text(0.95, 0.95, 'Name: Jawad Iqbal\nStudent ID: 22093598', ha='right', va='top', fontsize=20)
 
 # Save the entire infographic as an image
-plt.savefig("D:/22093598.png", dpi=300)
+plt.savefig("22093598.png", dpi=300)
